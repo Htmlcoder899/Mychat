@@ -1,0 +1,10 @@
+{
+    "\u043e\u0431\u043e\u0438 \u043a\u043b\u0435\u0449 \u0440\u043e\u044f\u043b\u044c": {
+        "password": "$2y$12$2LFBkuWJjg6MZh9uRor7deXC4AVltYMHXWyc8SliX7GqjXORL3WGK",
+        "role": "user"
+    },
+    "Turbopon": {
+        "password": "$2y$12$WfaBYhrqRDwYqeAwpFt8e.1.bxVdk1zjMl6kdi14bUuFvefdLou2O",
+        "role": "user"
+    }
+}
